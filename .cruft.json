@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/woltapp/wolt-python-package-cookiecutter",
+  "commit": "939ec0f2b97c172178eb5c77fb61a7df937696aa",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Conor",
+      "author_email": "github@randombits.host",
+      "github_username": "conor-f",
+      "project_name": "day-of-week-algorithm",
+      "project_slug": "day-of-week-algorithm",
+      "package_name": "day_of_week_algorithm",
+      "project_short_description": "This is a stupidly simple program to just ask you what day of the week a particular date fell on. It might have some sort of storage in a sqlite database at some point, it might have a GUI at some point, who knows (or cares. Honestly, this is trash, leave this repo)",
+      "_template": "https://github.com/woltapp/wolt-python-package-cookiecutter"
+    }
+  },
+  "directory": null
+}
